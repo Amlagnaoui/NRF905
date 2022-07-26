@@ -2,7 +2,7 @@
  * nrf905_.h
  * Bibliothèques de fonction pour la configuration et l'utilisation de la carte NRF905.
  *
- *  Created on: Nov 26, 2020
+ *  Created on: Mar 06, 2022
  *      Version 2.0 => Authors : Amine LAGNAOUI, Khalid KEJDID.
  *      using "NRF905 Product Manual - Phi Education"
  */
